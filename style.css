@@ -1,0 +1,89 @@
+h1{
+    text-align: center;
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+.bakgrund{
+    background-image:url(./img/snow_winter_trees.jpg);
+    background-size: 100%;
+    border: solid #d6001c;
+    border-radius: 5px;
+    text-align: center;
+    height: 400px;
+    
+
+}
+
+    
+
+
+.links{
+    border: solid #d6001c;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin:  10px;
+     
+}
+.links img{
+    border: 2px solid #D6001C;
+    border-radius: 5px;
+    width: auto;
+    height: 40px;
+    margin: 10px;
+    padding: 5px;
+
+}
+    
+.between{
+    border: 2px solid #D6001C;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 5px;
+}
+.left{
+    border: 2px solid #D6001C;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    
+}
+.pics{
+    border: 2px solid #D6001C;
+    border-radius: 5px;
+    width: 150px;
+    height: auto;
+}
+.mitten{
+    border: 2px solid #D6001C;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+.julgran{
+    border: 2px solid #D6001C;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 70px;
+    height: 600px;
+}
+.mail{
+    border: 2px solid #D6001C;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+
+
+}
